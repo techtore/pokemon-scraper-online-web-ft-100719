@@ -2,7 +2,7 @@ class Pokemon
   
   
   
-  def initialize(keywords) 
+  def initialize(id:, name; ) 
     
   end
   
